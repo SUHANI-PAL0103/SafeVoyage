@@ -5,7 +5,7 @@ A comprehensive maritime safety companion designed for cruise ship passengers, p
 ## 🔗 Links
 - Live URL: https://cruise-safe.vercel.app/
 - Youtube Demo Video: https://youtu.be/uVpw5FQN5Ds
-- Github: https://github.com/REHAAANNN/CruiseSafe.git
+- Github: https://github.com/SUHANI-PAL0103/SafeVoyage
 
 ## 🌟 Features
 
